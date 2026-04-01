@@ -21,19 +21,20 @@ Unique Keys: Unique identifiers are used for each list item to optimize renderin
 
 ## Installation
 
+
 1. Clone the repository or download the project files.
 2. Open the terminal and navigate to the project directory.
 3. Install the required dependencies:
 
-   bash
+   ```bash
    npm install
-   
+   ```
 
 4. Start the development server:
 
-   bash
+   ```bash
    npm start
-   
+   ```
 
 5. Open your browser and visit http://localhost:3000.
 
@@ -67,7 +68,6 @@ Student-Record-Management-System-React-JS/
 │   ├── App.css
 │   ├── App.jsx
 │   └── index.js
-├──.gitignore
 ├── package.json
 └── README.md
 ```
