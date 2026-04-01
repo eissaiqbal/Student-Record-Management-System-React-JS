@@ -94,3 +94,11 @@ This project demonstrates the following competencies:
 ## Browser Support
 
 This application is compatible with modern web browsers including Chrome, Firefox, Safari, and Edge.
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Author
+
+Eissa Iqbal
